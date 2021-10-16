@@ -17,7 +17,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
   </ItemGroup>
 
   <ItemGroup>
@@ -29,6 +29,7 @@
     <Folder Include="wwwroot\books\gallery\" />
     <Folder Include="wwwroot\books\pdf\" />
     <Folder Include="wwwroot\js\" />
+    <Folder Include="wwwroot\Pictures\" />
   </ItemGroup>
 
 </Project>
